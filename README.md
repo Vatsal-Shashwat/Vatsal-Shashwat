@@ -24,9 +24,8 @@ Brief description of the application and its significance.
 
 <!-- Bug Bounty Contributions -->
 ## 🐛 Bug Bounty Contributions
-- [Bug Bounty Profile 1](link-to-profile-1): Description of your contributions and successes.
-- [Bug Bounty Profile 2](link-to-profile-2): Description of your contributions and successes.
-
+- [BugCrowd](https://bugcrowd.com/VatsalShaswat): 🔒 Aspiring Ethical Hacker | Cybersecurity Enthusiast 🔒
+- [Hackerone](https://hackerone.com/vatsalshashwat?type=user): 🔒 Aspiring Ethical Hacker | Cybersecurity Enthusiast 🔒
 <!-- Certificates & Achievements -->
 <!-- ## 🏆 Certificates & Achievements
 - Certified Ethical Hacker (CEH)
