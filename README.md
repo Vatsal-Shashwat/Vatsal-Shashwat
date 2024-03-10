@@ -13,13 +13,13 @@ I'm a cybersecurity enthusiast and bug bounty hunter with a passion for developi
 
 <!-- Projects -->
 ## 💼 Projects
-### [BugHunter-s-Arsenal](https://github.com/Vatsal-Shashwat/BugHunter-s-Arsenal/)
+### [BugHunter-s-Arsenal 🐞](https://github.com/Vatsal-Shashwat/BugHunter-s-Arsenal/)
 "Your ultimate toolkit for bug hunting! Checklists, tools, and resources to uncover vulnerabilities. Let's hunt bugs together! 🐞".
 
-### [SubHound](https://github.com/Vatsal-Shashwat/SubHound)
+### [SubHound 🕵️‍♂️](https://github.com/Vatsal-Shashwat/SubHound)
 Uncover subdomains with this Python script.
 
-### [JS-Security-Analyzer](https://github.com/Vatsal-Shashwat/JS-Security-Analyzer)
+### [JS-Security-Analyzer 🕵️‍♂️](https://github.com/Vatsal-Shashwat/JS-Security-Analyzer)
 Detect sensitive info in JS files, secure web apps. Find passwords, API keys, tokens. Easy setup, clear reports. Contribute to web security.
 
 <!-- Bug Bounty Contributions -->
