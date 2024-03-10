@@ -23,9 +23,9 @@ Brief description of the application and its significance.
 - [Bug Bounty Profile 1](link-to-profile-1): Description of your contributions and successes.
 - [Bug Bounty Profile 2](link-to-profile-2): Description of your contributions and successes.
 
-## 🏆 Certificates & Achievements
+<## 🏆 Certificates & Achievements
 - Certified Ethical Hacker (CEH)
-- Offensive Security Certified Professional (OSCP)
+- Offensive Security Certified Professional (OSCP)>
 
 ## 🌐 Open Source Contributions
 - [Repository Name 1](link-to-repo-1): Brief description of your contribution.
@@ -35,6 +35,7 @@ Brief description of the application and its significance.
 - [LinkedIn](link-to-linkedin)
 - [Twitter](link-to-twitter)
 - [Website](link-to-website)
+- [Instagram](https://www.instagram.com/cybershieldinsight/)
 
 ## 📣 Let's Connect!
 Feel free to reach out to me for collaboration, job opportunities, or to discuss anything related to cybersecurity or application development.
