@@ -22,6 +22,10 @@ Uncover subdomains with this Python script.
 ### [JS-Security-Analyzer 🕵️‍♂️](https://github.com/Vatsal-Shashwat/JS-Security-Analyzer)
 Detect sensitive info in JS files, secure web apps. Find passwords, API keys, tokens. Easy setup, clear reports. Contribute to web security.
 
+### 🔐💻 Cybersecurity Playground: Explore My Adventures! 💻🔐
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-YourUsername-blue?style=for-the-badge&logo=TryHackMe)](https://tryhackme.com/p/VatsalShashwat)
+[![Hack The Box](http://www.hackthebox.eu/badge/image/YOUR_PROFILE_ID)](https://www.hackthebox.eu/home/users/profile/YOUR_PROFILE_ID)
+
 <!-- Bug Bounty Contributions -->
 ## 🐛 Bug Bounty Contributions
 - [BugCrowd](https://bugcrowd.com/VatsalShaswat): 🔒 Aspiring Ethical Hacker | Cybersecurity Enthusiast 🔒
