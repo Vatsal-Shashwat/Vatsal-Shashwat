@@ -16,8 +16,8 @@ I'm a cybersecurity enthusiast and bug bounty hunter with a passion for developi
 ### [BugHunter-s-Arsenal](https://github.com/Vatsal-Shashwat/BugHunter-s-Arsenal/)
 "Your ultimate toolkit for bug hunting! Checklists, tools, and resources to uncover vulnerabilities. Let's hunt bugs together! 🐞".
 
-### [Project Name 2](link-to-project-2)
-Brief description of the application and its significance.
+### [SubHound](https://github.com/Vatsal-Shashwat/SubHound)
+Uncover subdomains with this Python script.
 
 ### [Project Name 3](link-to-project-3)
 Brief description of the application and its significance.
