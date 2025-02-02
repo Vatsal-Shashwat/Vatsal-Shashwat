@@ -19,6 +19,9 @@ I'm a cybersecurity enthusiast and bug bounty hunter with a passion for developi
 ### [SubHound 🕵️‍♂️](https://github.com/Vatsal-Shashwat/SubHound)
 Uncover subdomains with this Python script.
 
+### [DirHound 🕵️‍♂️](https://github.com/Vatsal-Shashwat/SubHound)
+Discover hidden directories using this Python script.
+
 ### [JS-Security-Analyzer 🕵️‍♂️](https://github.com/Vatsal-Shashwat/JS-Security-Analyzer)
 Detect sensitive info in JS files, secure web apps. Find passwords, API keys, tokens. Easy setup, clear reports. Contribute to web security.
 
